@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="GlorianaAlpizar_JenniferQuesada_tareaDos.jnlp">
+  <information>
+    <title>GlorianaAlpizar_JenniferQuesada_tareaDos</title>
+    <vendor>glory</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="GlorianaAlpizar_JenniferQuesada_tareaDos.jar" size="121130" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="GlorianaAlpizar_JenniferQuesada_tareaDos" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="glorianaalpizar_jenniferquesada_tareados.GlorianaAlpizar_JenniferQuesada_tareaDos"  name="GlorianaAlpizar_JenniferQuesada_tareaDos" />
+  <update check="always"/>
+</jnlp>
